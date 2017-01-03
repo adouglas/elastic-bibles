@@ -1,0 +1,403 @@
+{
+  "name": "AFR53",
+  "full_name": "Afrikaans 1933/1953",
+  "language_code": "af",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "GÉNESIS",
+      "chapter_count": 50
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "EXODUS",
+      "chapter_count": 40
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "LEVÍTIKUS",
+      "chapter_count": 27
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "NÚMERI",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "DEUTERONÓMIUM",
+      "chapter_count": 34
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "JOSUA",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "RIGTERS",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "RUT",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "I SAMUEL",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "II SAMUEL",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "I KONINGS",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "II KONINGS",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "I KRONIEKE",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "II KRONIEKE",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "ESRA",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "NEHEMÍA",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "ESTER",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "JOB",
+      "chapter_count": 42
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "PSALMS",
+      "chapter_count": 150
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "SPREUKE",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "PREDIKER",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "HOOGLIED",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "JESAJA",
+      "chapter_count": 66
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "JEREMIA",
+      "chapter_count": 52
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "KLAAGLIEDERE",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "ESÉGIËL",
+      "chapter_count": 48
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "DANIËL",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "HOSÉA",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "JOËL",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "AMOS",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "OBÁDJA",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "JONA",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "MIGA",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "NAHUM",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "HÁBAKUK",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "SEFÁNJA",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "HAGGAI",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "SAGARÍA",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "MALEÁGI",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Matt",
+      "full_title": "MATTHÉÜS",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Mark",
+      "full_title": "MARKUS",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 42,
+      "osis_title": "Luke",
+      "full_title": "LUKAS",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 43,
+      "osis_title": "John",
+      "full_title": "JOHANNES",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Acts",
+      "full_title": "HANDELINGE",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Rom",
+      "full_title": "ROMEINE",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 46,
+      "osis_title": "1Cor",
+      "full_title": "I KORINTHIËRS",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 47,
+      "osis_title": "2Cor",
+      "full_title": "II KORINTHIËRS",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 48,
+      "osis_title": "Gal",
+      "full_title": "GALÁSIËRS",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 49,
+      "osis_title": "Eph",
+      "full_title": "EFÉSIËRS",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 50,
+      "osis_title": "Phil",
+      "full_title": "FILIPPENSE",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 51,
+      "osis_title": "Col",
+      "full_title": "KOLOSSENSE",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 52,
+      "osis_title": "1Thess",
+      "full_title": "I THESSALONICENSE",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 53,
+      "osis_title": "2Thess",
+      "full_title": "II THESSALONICENSE",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 54,
+      "osis_title": "1Tim",
+      "full_title": "I TIMÓTHEÜS",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 55,
+      "osis_title": "2Tim",
+      "full_title": "II TIMÓTHEÜS",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Titus",
+      "full_title": "TITUS",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 57,
+      "osis_title": "Phlm",
+      "full_title": "FILÉMON",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 58,
+      "osis_title": "Heb",
+      "full_title": "HEBREËRS",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 59,
+      "osis_title": "Jas",
+      "full_title": "JAKOBUS",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 60,
+      "osis_title": "1Pet",
+      "full_title": "I PETRUS",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 61,
+      "osis_title": "2Pet",
+      "full_title": "II PETRUS",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 62,
+      "osis_title": "1John",
+      "full_title": "I JOHANNES",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 63,
+      "osis_title": "2John",
+      "full_title": "II JOHANNES",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 64,
+      "osis_title": "3John",
+      "full_title": "III JOHANNES",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 65,
+      "osis_title": "Jude",
+      "full_title": "JUDAS",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 66,
+      "osis_title": "Rev",
+      "full_title": "OPENBARING",
+      "chapter_count": 22
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+curl -XPUT http://192.168.99.100:32769/bibledata-en-nivuk -d '
+{
+ "mappings" : {
+  "_default_" : {
+   "properties" : {
+    "text" : {"type": "string", "index" : "not_analyzed" },
+    "book" : {"type": "string", "index" : "not_analyzed" },
+    "chapter_number" : { "type" : "integer" },
+    "verse_number" : { "type" : "integer" }
+   }
+  }
+ }
+}
+';
+
+curl -XPOST '192.168.99.100:32769/bibledata-en-nivuk/_bulk?pretty' --data-binary @bibledata-en-nivuk.json

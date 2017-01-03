@@ -1,0 +1,403 @@
+{
+  "name": "NRT",
+  "full_name": "New Russian Translation",
+  "language_code": "ru",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "Бытие",
+      "chapter_count": 50
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "Исход",
+      "chapter_count": 40
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "Левит",
+      "chapter_count": 27
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "Числа",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "Второзаконие",
+      "chapter_count": 34
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "Иисус Навин",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "Книга Судей",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "Руфь",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "1-я Царств",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "2-я Царств",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "3-я Царств",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "4-я Царств",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "1-я Паралипоменон",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "2-я Паралипоменон",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "Ездра",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "Неемия",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "Есфирь",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "Иов",
+      "chapter_count": 42
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "Псалтирь",
+      "chapter_count": 150
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "Притчи",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "Екклесиаст",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "Песни Песней",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "Исаия",
+      "chapter_count": 66
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "Иеремия",
+      "chapter_count": 52
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "Плач Иеремии",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "Иезекииль",
+      "chapter_count": 48
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "Даниил",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "Осия",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "Иоиль",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "Амос",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "Авдия",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "Иона",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "Михей",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "Наум",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "Аввакум",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "Софония",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "Аггей",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "Захария",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "Малахия",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Matt",
+      "full_title": "От Матфея",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Mark",
+      "full_title": "От Марка",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 42,
+      "osis_title": "Luke",
+      "full_title": "От Луки",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 43,
+      "osis_title": "John",
+      "full_title": "От Иоанна",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Acts",
+      "full_title": "Деяния",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Rom",
+      "full_title": "К Римлянам",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 46,
+      "osis_title": "1Cor",
+      "full_title": "1-е Коринфянам",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 47,
+      "osis_title": "2Cor",
+      "full_title": "2-е Коринфянам",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 48,
+      "osis_title": "Gal",
+      "full_title": "К Галатам",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 49,
+      "osis_title": "Eph",
+      "full_title": "К Ефесянам",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 50,
+      "osis_title": "Phil",
+      "full_title": "К Филиппийцам",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 51,
+      "osis_title": "Col",
+      "full_title": "К Колоссянам",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 52,
+      "osis_title": "1Thess",
+      "full_title": "1-е Фессалоникийцам",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 53,
+      "osis_title": "2Thess",
+      "full_title": "2-е Фессалоникийцам",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 54,
+      "osis_title": "1Tim",
+      "full_title": "1-е Тимофею",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 55,
+      "osis_title": "2Tim",
+      "full_title": "2-е Тимофею",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Titus",
+      "full_title": "К Титу",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 57,
+      "osis_title": "Phlm",
+      "full_title": "К Филимону",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 58,
+      "osis_title": "Heb",
+      "full_title": "К Евреям",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 59,
+      "osis_title": "Jas",
+      "full_title": "Иакова",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 60,
+      "osis_title": "1Pet",
+      "full_title": "1-e Петра",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 61,
+      "osis_title": "2Pet",
+      "full_title": "2-e Петра",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 62,
+      "osis_title": "1John",
+      "full_title": "1-e Иоанна",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 63,
+      "osis_title": "2John",
+      "full_title": "2-e Иоанна",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 64,
+      "osis_title": "3John",
+      "full_title": "3-e Иоанна",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 65,
+      "osis_title": "Jude",
+      "full_title": "Иуда",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 66,
+      "osis_title": "Rev",
+      "full_title": "Откровение",
+      "chapter_count": 22
+    }
+  ]
+}

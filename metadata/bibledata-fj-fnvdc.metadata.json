@@ -1,0 +1,469 @@
+{
+  "name": "FNVDC",
+  "full_name": "Vakavakadewa Vou kei na iVola tale eso",
+  "language_code": "fj",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "Vakatekivu",
+      "chapter_count": 51
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "Lako Yani",
+      "chapter_count": 41
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "Vunau ni Soro",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "Tiko Voli mai na Lekutu",
+      "chapter_count": 37
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "Vakarua",
+      "chapter_count": 35
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "Josua",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "Dauveilewai",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "Ruci",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "1 Samuela",
+      "chapter_count": 32
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "2 Samuela",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "1 Tui",
+      "chapter_count": 23
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "2 Tui",
+      "chapter_count": 26
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "1 Veigauna",
+      "chapter_count": 30
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "2 Veigauna",
+      "chapter_count": 37
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "Esera",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "Niemaia",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "Esiteri",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "Jope",
+      "chapter_count": 43
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "Same",
+      "chapter_count": 151
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "Vosavakaibalebale",
+      "chapter_count": 32
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "Dauvunau",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "Sere i Solomoni",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "Aisea",
+      "chapter_count": 67
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "Jeremaia",
+      "chapter_count": 53
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "Lele i Jeremaia",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "Isikeli",
+      "chapter_count": 49
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "Taniela",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "Osea",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "Joeli",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "Emosi",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "Opetaia",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "Jona",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "Maika",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "Neumi",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "Apakuki",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "Sefanaia",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "Akeai",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "Sakaraia",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "Malakai",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Tob",
+      "full_title": "Tobita",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Jdt",
+      "full_title": "Udite",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 42,
+      "osis_title": "AddEsth",
+      "full_title": "ESITERI",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 43,
+      "osis_title": "Wis",
+      "full_title": "Yalomatua",
+      "chapter_count": 20
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Sir",
+      "full_title": "Siraki",
+      "chapter_count": 52
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Bar",
+      "full_title": "Baruki",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 46,
+      "osis_title": "PrAzar",
+      "full_title": "1. NA MASU I ASARIA KEI NA NODRATOU SERE NA TOLU NA CAURAVOU ????",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 47,
+      "osis_title": "Sus",
+      "full_title": "2. NA IVOLA I SUSANA",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 48,
+      "osis_title": "Bel",
+      "full_title": "3. O BELE KEI NA DRAKONI DAUKATA",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 49,
+      "osis_title": "1Macc",
+      "full_title": "1 Makabe",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 50,
+      "osis_title": "2Macc",
+      "full_title": "2 Makabe",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 51,
+      "osis_title": "Matt",
+      "full_title": "Maciu",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 52,
+      "osis_title": "Mark",
+      "full_title": "Marika",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 53,
+      "osis_title": "Luke",
+      "full_title": "Luke",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 54,
+      "osis_title": "John",
+      "full_title": "Joni",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 55,
+      "osis_title": "Acts",
+      "full_title": "Cakacaka",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Rom",
+      "full_title": "Roma",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 57,
+      "osis_title": "1Cor",
+      "full_title": "1 Korinica",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 58,
+      "osis_title": "2Cor",
+      "full_title": "2 Korinica",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 59,
+      "osis_title": "Gal",
+      "full_title": "Kalatia",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 60,
+      "osis_title": "Eph",
+      "full_title": "Efeso",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 61,
+      "osis_title": "Phil",
+      "full_title": "Filipai",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 62,
+      "osis_title": "Col",
+      "full_title": "Kolosa",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 63,
+      "osis_title": "1Thess",
+      "full_title": "1 Cesalonaika",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 64,
+      "osis_title": "2Thess",
+      "full_title": "2 Cesalonaika",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 65,
+      "osis_title": "1Tim",
+      "full_title": "1 Timoci",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 66,
+      "osis_title": "2Tim",
+      "full_title": "2 Timoci",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 67,
+      "osis_title": "Titus",
+      "full_title": "Taito",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 68,
+      "osis_title": "Phlm",
+      "full_title": "Filimoni",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 69,
+      "osis_title": "Heb",
+      "full_title": "Iperiu",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 70,
+      "osis_title": "Jas",
+      "full_title": "Jemesa",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 71,
+      "osis_title": "1Pet",
+      "full_title": "1 Pita",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 72,
+      "osis_title": "2Pet",
+      "full_title": "2 Pita",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 73,
+      "osis_title": "1John",
+      "full_title": "1 Joni",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 74,
+      "osis_title": "2John",
+      "full_title": "2 Joni",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 75,
+      "osis_title": "3John",
+      "full_title": "3 Joni",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 76,
+      "osis_title": "Jude",
+      "full_title": "Juta",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 77,
+      "osis_title": "Rev",
+      "full_title": "Vakatakila",
+      "chapter_count": 23
+    }
+  ]
+}

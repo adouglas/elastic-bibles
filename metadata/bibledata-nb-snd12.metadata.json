@@ -1,0 +1,403 @@
+{
+  "name": "SND12",
+  "full_name": "IsiNdebele 2012 Translation",
+  "language_code": "nb",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "UGENESISI",
+      "chapter_count": 51
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "U-EKSODUSI",
+      "chapter_count": 41
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "ULEVITIKUSI",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "UNUMERI",
+      "chapter_count": 37
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "UDUTERONOMI",
+      "chapter_count": 35
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "UJOTJHUWA",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "ABAKHOKHELI",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "URUTE",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "1 USAMYELA",
+      "chapter_count": 32
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "2 USAMYELA",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "1 AMAKHOSI",
+      "chapter_count": 23
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "2 AMAKHOSI",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "1 IINKRONIKE",
+      "chapter_count": 30
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "2 IINKRONIKE",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "U-EZRA",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "UNERHEMIYA",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "U-ESTA",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "UJOBHO",
+      "chapter_count": 43
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "AMARHUBO",
+      "chapter_count": 151
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "IZAGA",
+      "chapter_count": 32
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "UMTJHUMAYELI",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "INGOMA YEENGOMA",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "U-ISAYA",
+      "chapter_count": 67
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "UJOROMIYA",
+      "chapter_count": 53
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "ISILILO",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "UHEZEKIYELI",
+      "chapter_count": 49
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "UDANYELA",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "UHOSIYA",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "UJUWELI",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "U-AMOSI",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "U-OBADIYA",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "UJONA",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "UMIKHA",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "UNARHUME",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "URHABAKHUKHU",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "UZEFANIYA",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "UHAGAYI",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "UZAKARIYA",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "UMALAKI",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Matt",
+      "full_title": "UMATEWU",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Mark",
+      "full_title": "UMARKOSI",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 42,
+      "osis_title": "Luke",
+      "full_title": "ULUKASI",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 43,
+      "osis_title": "John",
+      "full_title": "UJWANISI",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Acts",
+      "full_title": "IZENZO ZABAPOSTOLI",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Rom",
+      "full_title": "KWEBEROMA",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 46,
+      "osis_title": "1Cor",
+      "full_title": "1 KWEBEKORINTE",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 47,
+      "osis_title": "2Cor",
+      "full_title": "2 KWEBEKORINTE",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 48,
+      "osis_title": "Gal",
+      "full_title": "KWEBEGALATIYA",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 49,
+      "osis_title": "Eph",
+      "full_title": "KWEBE-EFESU",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 50,
+      "osis_title": "Phil",
+      "full_title": "KWEBEFILIPI",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 51,
+      "osis_title": "Col",
+      "full_title": "KWEBEKOLOSE",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 52,
+      "osis_title": "1Thess",
+      "full_title": "1 KWEBETHESALONIKA",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 53,
+      "osis_title": "2Thess",
+      "full_title": "2 KWEBETHESALONIKA",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 54,
+      "osis_title": "1Tim",
+      "full_title": "1 UTHIMOTHI",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 55,
+      "osis_title": "2Tim",
+      "full_title": "2 UTHIMOTHI",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Titus",
+      "full_title": "UTITOSI",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 57,
+      "osis_title": "Phlm",
+      "full_title": "UFILIMONI",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 58,
+      "osis_title": "Heb",
+      "full_title": "AMAHEBHERU",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 59,
+      "osis_title": "Jas",
+      "full_title": "UJAKOPO",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 60,
+      "osis_title": "1Pet",
+      "full_title": "1 UPITROSI",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 61,
+      "osis_title": "2Pet",
+      "full_title": "2 UPITROSI",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 62,
+      "osis_title": "1John",
+      "full_title": "1 UJWANISI",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 63,
+      "osis_title": "2John",
+      "full_title": "2 UJWANISI",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 64,
+      "osis_title": "3John",
+      "full_title": "3 UJWANISI",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 65,
+      "osis_title": "Jude",
+      "full_title": "UJUDA",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 66,
+      "osis_title": "Rev",
+      "full_title": "ISAMBULO",
+      "chapter_count": 23
+    }
+  ]
+}

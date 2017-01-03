@@ -1,0 +1,403 @@
+{
+  "name": "URD",
+  "full_name": "Revised Urdu Bible",
+  "language_code": "ur",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "پَیدایش",
+      "chapter_count": 50
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "خُرُوج",
+      "chapter_count": 40
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "احبار",
+      "chapter_count": 27
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "گِنتی",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "اِستِثنا",
+      "chapter_count": 34
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "یشُوع",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "قُضاۃ",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "رُوت",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "۱-سموئیل",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "۲-سموئیل",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "۱-سلاطِین",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "۲-سلاطِین",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "۱-توارِیخ",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "۲- توارِیخ",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "عزرا",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "نحمیاہ",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "آستر",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "ایُّوب",
+      "chapter_count": 42
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "زبُو",
+      "chapter_count": 150
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "امثال",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "واعِظ",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "غزلُ الغزلات",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "یسعیاہ",
+      "chapter_count": 66
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "یرمِیاہ",
+      "chapter_count": 52
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "نَوحہ",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "حِزقی ایل",
+      "chapter_count": 48
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "دانی ایل",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "ہوسیعَِ",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "یُوایل",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "عامُوس",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "عبدیاہ",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "یُوناہ",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "مِیکاہ",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "ناحُوم",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "حبقُّوق",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "صفنیاہ",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "حجَّی",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "زکریاہ",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "ملاکی",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Matt",
+      "full_title": "متّی",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Mark",
+      "full_title": "مرقس",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 42,
+      "osis_title": "Luke",
+      "full_title": "لُوقا",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 43,
+      "osis_title": "John",
+      "full_title": "یُوحنّا",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Acts",
+      "full_title": "اَعمال",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Rom",
+      "full_title": "رُومِیوں",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 46,
+      "osis_title": "1Cor",
+      "full_title": "۱-کُرِنتھِیوں",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 47,
+      "osis_title": "2Cor",
+      "full_title": "۲-کُرِنتھِیوں",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 48,
+      "osis_title": "Gal",
+      "full_title": "گلتِیوں",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 49,
+      "osis_title": "Eph",
+      "full_title": "اِفسِیوں",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 50,
+      "osis_title": "Phil",
+      "full_title": "فِلپّیوں",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 51,
+      "osis_title": "Col",
+      "full_title": "کُلسِیوں",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 52,
+      "osis_title": "1Thess",
+      "full_title": "۱-تھِسّلُنیکیوں",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 53,
+      "osis_title": "2Thess",
+      "full_title": "۲-تھِسّلُنیکیوں",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 54,
+      "osis_title": "1Tim",
+      "full_title": "۱-تِیمُتھِیُس",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 55,
+      "osis_title": "2Tim",
+      "full_title": "۲-تِیمُتھِیُس",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Titus",
+      "full_title": "طِطُس",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 57,
+      "osis_title": "Phlm",
+      "full_title": "فِلیمون",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 58,
+      "osis_title": "Heb",
+      "full_title": "عِبرانیوں",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 59,
+      "osis_title": "Jas",
+      "full_title": "یعقُوب",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 60,
+      "osis_title": "1Pet",
+      "full_title": "۱-پطرس",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 61,
+      "osis_title": "2Pet",
+      "full_title": "۲-پطرس",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 62,
+      "osis_title": "1John",
+      "full_title": "۱-یُوحنّا",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 63,
+      "osis_title": "2John",
+      "full_title": "۲-یُوحنّا",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 64,
+      "osis_title": "3John",
+      "full_title": "۳-یُوحنّا",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 65,
+      "osis_title": "Jude",
+      "full_title": "یہُوداہ",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 66,
+      "osis_title": "Rev",
+      "full_title": "مُکاشفہ",
+      "chapter_count": 22
+    }
+  ]
+}

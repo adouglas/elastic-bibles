@@ -1,0 +1,475 @@
+{
+  "name": "SEB",
+  "full_name": "Slovenský Ekumenický Biblia",
+  "language_code": "sk",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "Genezis",
+      "chapter_count": 50
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "Exodus",
+      "chapter_count": 40
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "Levitikus",
+      "chapter_count": 27
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "Numeri",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "Deuteronómium",
+      "chapter_count": 34
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "Jozua",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "Sudcov",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "Rút",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "Prvá Samuelova",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "Druhá Samuelova",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "Prvá kráľov",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "Druhá kráľov",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "Prvá kroník",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "Druhá kroník",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "Ezdráš",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "Nehemiáš",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "Ester",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "Jób",
+      "chapter_count": 42
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "Žalmy",
+      "chapter_count": 150
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "Príslovia",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "Kohelet — Kazateľ",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "Veľpieseň",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "Izaiáš",
+      "chapter_count": 66
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "Jeremiáš",
+      "chapter_count": 52
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "Náreky",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "Ezechiel",
+      "chapter_count": 48
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "Daniel",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "Ozeáš",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "Joel",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "Amos",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "Abdiáš",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "Jonáš",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "Micheáš",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "Nahum",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "Habakuk",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "Sofoniáš",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "Aggeus",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "Zachariáš",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "Malachiáš",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Tob",
+      "full_title": "Tobiáš",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Jdt",
+      "full_title": "Judita",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 42,
+      "osis_title": "AddEsth",
+      "full_title": "Ester (gr.)",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 43,
+      "osis_title": "Wis",
+      "full_title": "Kniha múdrosti",
+      "chapter_count": 19
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Sir",
+      "full_title": "Kniha Sirachovca",
+      "chapter_count": 51
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Bar",
+      "full_title": "Baruch",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 46,
+      "osis_title": "EpJer",
+      "full_title": "Jeremiášov list",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 47,
+      "osis_title": "PrAzar",
+      "full_title": "Traja mládenci v~rozpálenej peci",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 48,
+      "osis_title": "Sus",
+      "full_title": "Zuzana",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 49,
+      "osis_title": "Bel",
+      "full_title": "Bél a drak",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 50,
+      "osis_title": "1Macc",
+      "full_title": "Prvá Makabejcov",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 51,
+      "osis_title": "2Macc",
+      "full_title": "Druhá Makabejcov",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 52,
+      "osis_title": "Matt",
+      "full_title": "Matúš",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 53,
+      "osis_title": "Mark",
+      "full_title": "Marek",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 54,
+      "osis_title": "Luke",
+      "full_title": "Lukáš",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 55,
+      "osis_title": "John",
+      "full_title": "Ján",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Acts",
+      "full_title": "Skutky apoštolov",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 57,
+      "osis_title": "Rom",
+      "full_title": "Rimanom",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 58,
+      "osis_title": "1Cor",
+      "full_title": "Prvý Korinťanom",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 59,
+      "osis_title": "2Cor",
+      "full_title": "Druhý Korinťanom",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 60,
+      "osis_title": "Gal",
+      "full_title": "Galaťanom",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 61,
+      "osis_title": "Eph",
+      "full_title": "Efezanom",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 62,
+      "osis_title": "Phil",
+      "full_title": "Filipanom",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 63,
+      "osis_title": "Col",
+      "full_title": "Kolosanom",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 64,
+      "osis_title": "1Thess",
+      "full_title": "Prvý Tesaloničanom",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 65,
+      "osis_title": "2Thess",
+      "full_title": "Druhý Tesaloničanom",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 66,
+      "osis_title": "1Tim",
+      "full_title": "Prvý Timotejovi",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 67,
+      "osis_title": "2Tim",
+      "full_title": "Druhý Timotejovi",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 68,
+      "osis_title": "Titus",
+      "full_title": "Títovi",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 69,
+      "osis_title": "Phlm",
+      "full_title": "Filemonovi",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 70,
+      "osis_title": "Heb",
+      "full_title": "Hebrejom",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 71,
+      "osis_title": "Jas",
+      "full_title": "Jakubov",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 72,
+      "osis_title": "1Pet",
+      "full_title": "Prvý Petrov",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 73,
+      "osis_title": "2Pet",
+      "full_title": "Druhý Petrov",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 74,
+      "osis_title": "1John",
+      "full_title": "Prvý Jánov",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 75,
+      "osis_title": "2John",
+      "full_title": "Druhý Jánov",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 76,
+      "osis_title": "3John",
+      "full_title": "Tretí Jánov",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 77,
+      "osis_title": "Jude",
+      "full_title": "Júdov",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 78,
+      "osis_title": "Rev",
+      "full_title": "Zjavenie Jána",
+      "chapter_count": 22
+    }
+  ]
+}

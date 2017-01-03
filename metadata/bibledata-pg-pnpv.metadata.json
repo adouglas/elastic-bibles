@@ -1,0 +1,475 @@
+{
+  "name": "PNPV",
+  "full_name": "Maung a Balita Biblia",
+  "language_code": "pg",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "GENESIS",
+      "chapter_count": 51
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "EXODO",
+      "chapter_count": 41
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "LEVITICO",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "BILANG",
+      "chapter_count": 37
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "DEUTERONOMIO",
+      "chapter_count": 35
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "JOSUE",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "HUIS",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "RUTH",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "1 SAMUEL",
+      "chapter_count": 32
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "2 SAMUEL",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "SARAY ARARI",
+      "chapter_count": 23
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "SARAY ARARI",
+      "chapter_count": 26
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "1 SARAY AWARAN",
+      "chapter_count": 30
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "2 SARAY AWARAN",
+      "chapter_count": 37
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "ESDRAS",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "NEHEMIAS",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "ESTER",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "JOB",
+      "chapter_count": 43
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "Salmo",
+      "chapter_count": 151
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "SARAY PROBIRBIO",
+      "chapter_count": 32
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "ECCLESIASTES",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "SAY KANTA NEN SOLOMON",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "ISAIAS",
+      "chapter_count": 67
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "JEREMIAS",
+      "chapter_count": 53
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "SARAY TAGLEEY",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "EZEKIEL",
+      "chapter_count": 49
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "DANIEL",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "OSEAS",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "JOEL",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "AMOS",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "OBADIAS",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "JONAS",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "MIKIAS",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "NAHUM",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "HABACUC",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "SOFONIAS",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "AGGEO",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "ZACARIAS",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "MALAKIAS",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Tob",
+      "full_title": "TOBIT",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Jdt",
+      "full_title": "JUDIT",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 42,
+      "osis_title": "AddEsth",
+      "full_title": "ESTER",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 43,
+      "osis_title": "Wis",
+      "full_title": "SAY KAKABATAN NEN SOLOMON",
+      "chapter_count": 20
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Sir",
+      "full_title": "SIRAC",
+      "chapter_count": 52
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Bar",
+      "full_title": "BARUC",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 46,
+      "osis_title": "EpJer",
+      "full_title": "JEREMIAS",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 47,
+      "osis_title": "PrAzar",
+      "full_title": "SAY PIKAKASI NEN AZARIAS TAN SAY KANTA DA RAY TALORAN LALAKIN TOBUN-BALO",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 48,
+      "osis_title": "Sus",
+      "full_title": "SUSANA",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 49,
+      "osis_title": "Bel",
+      "full_title": "SI BEL TAN SAY DRAGON",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 50,
+      "osis_title": "1Macc",
+      "full_title": "Say Ononan Libro na SARAY MACABEO",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 51,
+      "osis_title": "2Macc",
+      "full_title": "Say Kumadwan Libro na SARAY MACABEO",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 52,
+      "osis_title": "Matt",
+      "full_title": "MATEO",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 53,
+      "osis_title": "Mark",
+      "full_title": "MARCOS",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 54,
+      "osis_title": "Luke",
+      "full_title": "LUCAS",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 55,
+      "osis_title": "John",
+      "full_title": "JUAN",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Acts",
+      "full_title": "SARAY GAWGAWA",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 57,
+      "osis_title": "Rom",
+      "full_title": "TAGA ROMA",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 58,
+      "osis_title": "1Cor",
+      "full_title": "1 CORINTO",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 59,
+      "osis_title": "2Cor",
+      "full_title": "2 CORINTO",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 60,
+      "osis_title": "Gal",
+      "full_title": "TAGA GALACIA",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 61,
+      "osis_title": "Eph",
+      "full_title": "TAGA-EFESO",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 62,
+      "osis_title": "Phil",
+      "full_title": "FILIPOS",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 63,
+      "osis_title": "Col",
+      "full_title": "COLOSAS",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 64,
+      "osis_title": "1Thess",
+      "full_title": "1 TESALONICA",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 65,
+      "osis_title": "2Thess",
+      "full_title": "2 TESALONICA",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 66,
+      "osis_title": "1Tim",
+      "full_title": "1 TIMOTEO",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 67,
+      "osis_title": "2Tim",
+      "full_title": "2 TIMOTEO",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 68,
+      "osis_title": "Titus",
+      "full_title": "TITO",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 69,
+      "osis_title": "Phlm",
+      "full_title": "FILEMON",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 70,
+      "osis_title": "Heb",
+      "full_title": "HEBREO",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 71,
+      "osis_title": "Jas",
+      "full_title": "SANTIAGO",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 72,
+      "osis_title": "1Pet",
+      "full_title": "1 PEDRO",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 73,
+      "osis_title": "2Pet",
+      "full_title": "2 PEDRO",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 74,
+      "osis_title": "1John",
+      "full_title": "1 JUAN",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 75,
+      "osis_title": "2John",
+      "full_title": "2 JUAN",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 76,
+      "osis_title": "3John",
+      "full_title": "3 JUAN",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 77,
+      "osis_title": "Jude",
+      "full_title": "JUDAS",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 78,
+      "osis_title": "Rev",
+      "full_title": "PUYAN",
+      "chapter_count": 23
+    }
+  ]
+}

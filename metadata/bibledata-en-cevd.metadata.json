@@ -1,0 +1,475 @@
+{
+  "name": "CEVD",
+  "full_name": "Contemporary English Version (US Version)",
+  "language_code": "en",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "GENESIS",
+      "chapter_count": 51
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "EXODUS",
+      "chapter_count": 41
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "LEVITICUS",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "NUMBERS",
+      "chapter_count": 37
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "DEUTERONOMY",
+      "chapter_count": 35
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "JOSHUA",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "JUDGES",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "RUTH",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "1 SAMUEL",
+      "chapter_count": 32
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "2 SAMUEL",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "1 KINGS",
+      "chapter_count": 23
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "2 KINGS",
+      "chapter_count": 26
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "1 CHRONICLES",
+      "chapter_count": 30
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "2 CHRONICLES",
+      "chapter_count": 37
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "EZRA",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "NEHEMIAH",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "ESTHER",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "JOB",
+      "chapter_count": 43
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "PSALMS",
+      "chapter_count": 151
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "PROVERBS",
+      "chapter_count": 32
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "ECCLESIASTES",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "SONG OF SONGS",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "ISAIAH",
+      "chapter_count": 67
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "JEREMIAH",
+      "chapter_count": 53
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "LAMENTATIONS",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "EZEKIEL",
+      "chapter_count": 49
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "DANIEL",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "HOSEA",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "JOEL",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "AMOS",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "OBADIAH",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "JONAH",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "MICAH",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "NAHUM",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "HABAKKUK",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "ZEPHANIAH",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "HAGGAI",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "ZECHARIAH",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "MALACHI",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Tob",
+      "full_title": "TOBIT",
+      "chapter_count": 15
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Jdt",
+      "full_title": "JUDITH",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 42,
+      "osis_title": "AddEsth",
+      "full_title": "ESTHER",
+      "chapter_count": 11
+    },
+    {
+      "order_no": 43,
+      "osis_title": "Wis",
+      "full_title": "WISDOM OF SOLOMON",
+      "chapter_count": 20
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Sir",
+      "full_title": "SIRACH",
+      "chapter_count": 52
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Bar",
+      "full_title": "BARUCH",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 46,
+      "osis_title": "EpJer",
+      "full_title": "LETTER OF JEREMIAH",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 47,
+      "osis_title": "1Macc",
+      "full_title": "1 MACCABEES",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 48,
+      "osis_title": "2Macc",
+      "full_title": "2 MACCABEES",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 49,
+      "osis_title": "1Esd",
+      "full_title": "1 ESDRAS",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 50,
+      "osis_title": "2Esd",
+      "full_title": "2 ESDRAS",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 51,
+      "osis_title": "PrMan",
+      "full_title": "PRAYER OF MANASSEH",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 52,
+      "osis_title": "Matt",
+      "full_title": "MATTHEW",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 53,
+      "osis_title": "Mark",
+      "full_title": "MARK",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 54,
+      "osis_title": "Luke",
+      "full_title": "LUKE",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 55,
+      "osis_title": "John",
+      "full_title": "JOHN",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Acts",
+      "full_title": "ACTS",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 57,
+      "osis_title": "Rom",
+      "full_title": "ROMANS",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 58,
+      "osis_title": "1Cor",
+      "full_title": "1 CORINTHIANS",
+      "chapter_count": 17
+    },
+    {
+      "order_no": 59,
+      "osis_title": "2Cor",
+      "full_title": "2 CORINTHIANS",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 60,
+      "osis_title": "Gal",
+      "full_title": "GALATIANS",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 61,
+      "osis_title": "Eph",
+      "full_title": "EPHESIANS",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 62,
+      "osis_title": "Phil",
+      "full_title": "PHILIPPIANS",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 63,
+      "osis_title": "Col",
+      "full_title": "COLOSSIANS",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 64,
+      "osis_title": "1Thess",
+      "full_title": "1 THESSALONIANS",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 65,
+      "osis_title": "2Thess",
+      "full_title": "2 THESSALONIANS",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 66,
+      "osis_title": "1Tim",
+      "full_title": "1 TIMOTHY",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 67,
+      "osis_title": "2Tim",
+      "full_title": "2 TIMOTHY",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 68,
+      "osis_title": "Titus",
+      "full_title": "TITUS",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 69,
+      "osis_title": "Phlm",
+      "full_title": "PHILEMON",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 70,
+      "osis_title": "Heb",
+      "full_title": "HEBREWS",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 71,
+      "osis_title": "Jas",
+      "full_title": "JAMES",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 72,
+      "osis_title": "1Pet",
+      "full_title": "1 PETER",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 73,
+      "osis_title": "2Pet",
+      "full_title": "2 PETER",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 74,
+      "osis_title": "1John",
+      "full_title": "1 JOHN",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 75,
+      "osis_title": "2John",
+      "full_title": "2 JOHN",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 76,
+      "osis_title": "3John",
+      "full_title": "3 JOHN",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 77,
+      "osis_title": "Jude",
+      "full_title": "JUDE",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 78,
+      "osis_title": "Rev",
+      "full_title": "REVELATION",
+      "chapter_count": 23
+    }
+  ]
+}
