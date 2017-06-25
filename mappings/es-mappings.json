@@ -1,0 +1,12 @@
+{
+ "mappings" : {
+  "_default_" : {
+   "properties" : {
+    "text" : {"type": "string" },
+    "book" : {"type": "string", "index" : "not_analyzed" },
+    "chapter_number" : { "type" : "integer", "index" : "not_analyzed" },
+    "verse_number" : { "type" : "integer", "index" : "not_analyzed" }
+   }
+  }
+ }
+}
