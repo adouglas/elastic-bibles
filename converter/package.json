@@ -1,5 +1,8 @@
 {
   "bin": "lib/cli.js",
+  "scripts": {
+    "start": "node lib/cli.js"
+  },
   "dependencies": {
     "adm-zip": "^0.4.7",
     "jsonfile": "^2.2.3",

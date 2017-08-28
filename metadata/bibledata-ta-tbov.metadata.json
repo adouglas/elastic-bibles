@@ -1,0 +1,403 @@
+{
+  "name": "TBOV",
+  "full_name": "பரிசுத்த வேதாகமம் தமிழ்",
+  "language_code": "ta",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Gen",
+      "full_title": "ஆதியாகமம்",
+      "chapter_count": 50
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Exod",
+      "full_title": "யாத்திராகமம்",
+      "chapter_count": 40
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Lev",
+      "full_title": "லேவியராகமம்",
+      "chapter_count": 27
+    },
+    {
+      "order_no": 4,
+      "osis_title": "Num",
+      "full_title": "எண்ணாகமம்",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Deut",
+      "full_title": "உபாகமம்",
+      "chapter_count": 34
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Josh",
+      "full_title": "யோசுவா",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 7,
+      "osis_title": "Judg",
+      "full_title": "நியாயாதிபதிகள்",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 8,
+      "osis_title": "Ruth",
+      "full_title": "ரூத்",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 9,
+      "osis_title": "1Sam",
+      "full_title": "1 சாமுவேல்",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 10,
+      "osis_title": "2Sam",
+      "full_title": "2 சாமுவேல்",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 11,
+      "osis_title": "1Kgs",
+      "full_title": "1 இராஜாக்கள்",
+      "chapter_count": 22
+    },
+    {
+      "order_no": 12,
+      "osis_title": "2Kgs",
+      "full_title": "2 இராஜாக்கள்",
+      "chapter_count": 25
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Chr",
+      "full_title": "1 நாளாகமம்",
+      "chapter_count": 29
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Chr",
+      "full_title": "2 நாளாகமம்",
+      "chapter_count": 36
+    },
+    {
+      "order_no": 15,
+      "osis_title": "Ezra",
+      "full_title": "எஸ்றா",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 16,
+      "osis_title": "Neh",
+      "full_title": "நெகேமியா",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Esth",
+      "full_title": "எஸ்தர்",
+      "chapter_count": 10
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Job",
+      "full_title": "யோபு",
+      "chapter_count": 42
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Ps",
+      "full_title": "சங்கீதம்",
+      "chapter_count": 150
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Prov",
+      "full_title": "நீதிமொழிகள்",
+      "chapter_count": 31
+    },
+    {
+      "order_no": 21,
+      "osis_title": "Eccl",
+      "full_title": "பிரசங்கி",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 22,
+      "osis_title": "Song",
+      "full_title": "சாலொமோனின் உன்னதப்பாட்டு",
+      "chapter_count": 8
+    },
+    {
+      "order_no": 23,
+      "osis_title": "Isa",
+      "full_title": "ஏசாயா",
+      "chapter_count": 66
+    },
+    {
+      "order_no": 24,
+      "osis_title": "Jer",
+      "full_title": "எரேமியா",
+      "chapter_count": 52
+    },
+    {
+      "order_no": 25,
+      "osis_title": "Lam",
+      "full_title": "புலம்பல்",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Ezek",
+      "full_title": "எசேக்கியேல்",
+      "chapter_count": 48
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Dan",
+      "full_title": "தானியேல்",
+      "chapter_count": 12
+    },
+    {
+      "order_no": 28,
+      "osis_title": "Hos",
+      "full_title": "ஓசியா",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 29,
+      "osis_title": "Joel",
+      "full_title": "யோவேல்",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 30,
+      "osis_title": "Amos",
+      "full_title": "ஆமோஸ்",
+      "chapter_count": 9
+    },
+    {
+      "order_no": 31,
+      "osis_title": "Obad",
+      "full_title": "ஒபதியா",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 32,
+      "osis_title": "Jonah",
+      "full_title": "யோனா",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 33,
+      "osis_title": "Mic",
+      "full_title": "மீகா",
+      "chapter_count": 7
+    },
+    {
+      "order_no": 34,
+      "osis_title": "Nah",
+      "full_title": "நாகூம்",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 35,
+      "osis_title": "Hab",
+      "full_title": "ஆபகூக்",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 36,
+      "osis_title": "Zeph",
+      "full_title": "செப்பனியா",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 37,
+      "osis_title": "Hag",
+      "full_title": "ஆகாய்",
+      "chapter_count": 2
+    },
+    {
+      "order_no": 38,
+      "osis_title": "Zech",
+      "full_title": "சகரியா",
+      "chapter_count": 14
+    },
+    {
+      "order_no": 39,
+      "osis_title": "Mal",
+      "full_title": "மல்கியா",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 40,
+      "osis_title": "Matt",
+      "full_title": "மத்தேயு",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 41,
+      "osis_title": "Mark",
+      "full_title": "மாற்கு",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 42,
+      "osis_title": "Luke",
+      "full_title": "லூக்கா",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 43,
+      "osis_title": "John",
+      "full_title": "யோவான்",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 44,
+      "osis_title": "Acts",
+      "full_title": "அப்போஸ்தலர்",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 45,
+      "osis_title": "Rom",
+      "full_title": "ரோமர்",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 46,
+      "osis_title": "1Cor",
+      "full_title": "1 கொரிந்தியர்",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 47,
+      "osis_title": "2Cor",
+      "full_title": "2 கொரிந்தியர்",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 48,
+      "osis_title": "Gal",
+      "full_title": "கலாத்தியர்",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 49,
+      "osis_title": "Eph",
+      "full_title": "எபேசியர்",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 50,
+      "osis_title": "Phil",
+      "full_title": "பிலிப்பியர்",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 51,
+      "osis_title": "Col",
+      "full_title": "கொலோசெயர்",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 52,
+      "osis_title": "1Thess",
+      "full_title": "1 தெசலோனிக்கேயர்",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 53,
+      "osis_title": "2Thess",
+      "full_title": "2 தெசலோனிக்கேயர்",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 54,
+      "osis_title": "1Tim",
+      "full_title": "1 தீமோத்தேயு",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 55,
+      "osis_title": "2Tim",
+      "full_title": "2 தீமோத்தேயு",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 56,
+      "osis_title": "Titus",
+      "full_title": "தீத்து",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 57,
+      "osis_title": "Phlm",
+      "full_title": "பிலேமோன்",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 58,
+      "osis_title": "Heb",
+      "full_title": "எபிரெயருக்கு எழுதின நிருபம்",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 59,
+      "osis_title": "Jas",
+      "full_title": "யாக்கோபு",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 60,
+      "osis_title": "1Pet",
+      "full_title": "1 பேதுரு",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 61,
+      "osis_title": "2Pet",
+      "full_title": "2 பேதுரு",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 62,
+      "osis_title": "1John",
+      "full_title": "1 யோவான்",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 63,
+      "osis_title": "2John",
+      "full_title": "2 யோவான்",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 64,
+      "osis_title": "3John",
+      "full_title": "3 யோவான்",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 65,
+      "osis_title": "Jude",
+      "full_title": "யூதா",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 66,
+      "osis_title": "Rev",
+      "full_title": "வெளிப்படுத்தின விசேஷம்",
+      "chapter_count": 22
+    }
+  ]
+}

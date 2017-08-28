@@ -50,7 +50,7 @@ function unzipPackage(filePath, name){
 function processSQLiteFile(filePath,callback) {
   console.log("Processing: " + filePath);
 
-  var language_code = filePath.match(/\/bibledata-([a-z]{2}|[a-z]{2}-[a-z]{2})-[a-z0-9]+\//i)[1];
+  var language_code = filePath.match(/\/bibledata-([a-z]{5}|[a-z]{2}|[a-z]{2}-[a-z]{2})-[a-z0-9]+\//i)[1];
 
   var name = filePath.match(/bibledata-master\/([a-z0-9\-]*)\//i)[1];
 
@@ -98,7 +98,7 @@ function processSQLiteFile(filePath,callback) {
           console.log(err);
         }
 
-        var chap_verse = row.verse.toString().match(/(\d)\.[0]*([1-9]\d*)/);
+        var chap_verse = row.verse.toString().match(/(\d+)\.[0]*([1-9]\d*)/);
 
         bibleJson.write(JSON.stringify({"index":{"_index":index,"_type":"verse","_id":metaDataCount++}}) + os.EOL);
         bibleJson.write(JSON.stringify({"verse_number":chap_verse[2],"chapter_number":chap_verse[1],"book":row.book,"text":row.unformatted}) + os.EOL);

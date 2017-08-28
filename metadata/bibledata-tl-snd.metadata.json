@@ -1,0 +1,169 @@
+{
+  "name": "SND",
+  "full_name": "Ang Salita ng Diyos",
+  "language_code": "tl",
+  "books": [
+    {
+      "order_no": 1,
+      "osis_title": "Matt",
+      "full_title": "Mateo",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 2,
+      "osis_title": "Mark",
+      "full_title": "Marcos",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 3,
+      "osis_title": "Luke",
+      "full_title": "Lucas",
+      "chapter_count": 24
+    },
+    {
+      "order_no": 4,
+      "osis_title": "John",
+      "full_title": "Juan",
+      "chapter_count": 21
+    },
+    {
+      "order_no": 5,
+      "osis_title": "Acts",
+      "full_title": "Mga Gawa",
+      "chapter_count": 28
+    },
+    {
+      "order_no": 6,
+      "osis_title": "Rom",
+      "full_title": "Roma",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 7,
+      "osis_title": "1Cor",
+      "full_title": "1 Corinto",
+      "chapter_count": 16
+    },
+    {
+      "order_no": 8,
+      "osis_title": "2Cor",
+      "full_title": "2 Corinto",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 9,
+      "osis_title": "Gal",
+      "full_title": "Galacia",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 10,
+      "osis_title": "Eph",
+      "full_title": "Efeso",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 11,
+      "osis_title": "Phil",
+      "full_title": "Filipos",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 12,
+      "osis_title": "Col",
+      "full_title": "Colosas",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 13,
+      "osis_title": "1Thess",
+      "full_title": "1 Tesalonica",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 14,
+      "osis_title": "2Thess",
+      "full_title": "2 Tesalonica",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 15,
+      "osis_title": "1Tim",
+      "full_title": "1 Kay Timoteo",
+      "chapter_count": 6
+    },
+    {
+      "order_no": 16,
+      "osis_title": "2Tim",
+      "full_title": "2 Kay Timoteo",
+      "chapter_count": 4
+    },
+    {
+      "order_no": 17,
+      "osis_title": "Titus",
+      "full_title": "Kay Tito",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 18,
+      "osis_title": "Phlm",
+      "full_title": "Kay Filemon",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 19,
+      "osis_title": "Heb",
+      "full_title": "Hebreo",
+      "chapter_count": 13
+    },
+    {
+      "order_no": 20,
+      "osis_title": "Jas",
+      "full_title": "Santiago",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 21,
+      "osis_title": "1Pet",
+      "full_title": "1 Pedro",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 22,
+      "osis_title": "2Pet",
+      "full_title": "2 Pedro",
+      "chapter_count": 3
+    },
+    {
+      "order_no": 23,
+      "osis_title": "1John",
+      "full_title": "1 Juan",
+      "chapter_count": 5
+    },
+    {
+      "order_no": 24,
+      "osis_title": "2John",
+      "full_title": "2 Juan",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 25,
+      "osis_title": "3John",
+      "full_title": "3 Juan",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 26,
+      "osis_title": "Jude",
+      "full_title": "Judas",
+      "chapter_count": 1
+    },
+    {
+      "order_no": 27,
+      "osis_title": "Rev",
+      "full_title": "Pahayag",
+      "chapter_count": 22
+    }
+  ]
+}
